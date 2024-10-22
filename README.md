@@ -1,6 +1,6 @@
 # Welcome
 
-Hello 👋. I'm Alex, a Software Developer and CyberSecurity Researcher.
+Hello 👋. I'm Alex, I code random stuff and projects.
 
 ## I code in 
 
